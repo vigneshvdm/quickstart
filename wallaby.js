@@ -2,6 +2,7 @@
 // https://marketplace.visualstudio.com/items?itemName=WallabyJs.wallaby-vscode
 // Note: Wallaby is not open source and costs money
 
+
 module.exports = function () {
   return {
     files: [
